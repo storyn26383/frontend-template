@@ -1,0 +1,12 @@
+@import "settings";
+@import "bower_components/bootstrap-sass/assets/stylesheets/bootstrap";
+@import "bower_components/font-awesome/scss/font-awesome";
+
+body {
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+a {
+    transition: all .5s;
+}

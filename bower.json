@@ -1,0 +1,11 @@
+{
+  "name": "Hello World",
+  "version": "1.0.0",
+  "authors": [
+    "storyn26383 <storyn26383@gmail.com>"
+  ],
+  "dependencies": {
+    "bootstrap-sass": "^3.0.0",
+    "font-awesome": "^4.0.0"
+  }
+}
